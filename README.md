@@ -1,2 +1,2 @@
-# Gan_Cubism_Art
-Generation Cubism Art
+# GAN Cubism Art
+Generation of Cubism Art using Keras
